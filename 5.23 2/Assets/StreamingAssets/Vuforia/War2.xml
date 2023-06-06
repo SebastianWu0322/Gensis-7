@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gun5" size="1.000000 0.523958" />
+    <ImageTarget name="gun4" size="1.000000 0.562353" />
+    <ImageTarget name="gun3" size="1.000000 0.750000" />
+    <ImageTarget name="gun2" size="1.000000 0.666667" />
+    <ImageTarget name="gun1" size="1.000000 0.666146" />
+  </Tracking>
+</QCARConfig>
